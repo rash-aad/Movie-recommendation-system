@@ -46,7 +46,7 @@ movie_recommendation_sysytem/
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/rash-aad/Movie_recommendation_system.git
-   cd Movie_recommendation_system/ml_project/movie_recomend
+   cd Movie_recommendation_system/movie_recommendation_sysytem/movie_recomend
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
