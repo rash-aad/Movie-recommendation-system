@@ -27,7 +27,7 @@ This project is a **content-based movie recommender system** built using Python,
 ## 📂 Project Structure
 
 ```
-ml_project/
+movie_recommendation_sysytem/
 ├── movie_recommend.ipynb        # Jupyter notebook for building and testing model
 ├── tmdb_5000_movies.csv         # TMDB movie metadata
 ├── tmdb_5000_credits.csv        # TMDB credits metadata
